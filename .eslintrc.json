@@ -1,0 +1,9 @@
+{
+  "extends": "@brucesong/eslint-config-ts",
+  "rules": {
+    "no-console": "off",
+    "max-classes-per-file": "off",
+    "unused-imports/no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "off"
+  }
+}
