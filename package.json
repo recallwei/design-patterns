@@ -3,10 +3,10 @@
   "scripts": {},
   "devDependencies": {
     "@brucesong/eslint-config-ts": "^1.0.19",
-    "bun": "^1.0.26",
-    "eslint": "^8.56.0",
+    "bun": "^1.1.3",
+    "eslint": "^8.57.0",
     "prettier": "^3.2.5",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.4"
   },
   "private": true,
   "license": "MIT"
